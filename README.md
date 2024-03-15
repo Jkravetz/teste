@@ -21,7 +21,8 @@ RNF01	A aplicação deverá ser desenvolvida em .NET Core 8.
 RNF02	A aplicação deverá possuir uma estrutura robusta e eficiente de logs, utilizando bibliotecas como Serilog ou NLog.
 RNF03	A aplicação deve ser escalável, suportando um aumento significativo no volume de dados processados.
 RNF04	A aplicação deve garantir alta performance, especialmente durante processos de importação e execução de procedures.
- 
+
+https://drive.google.com/file/d/1Gc2t9dEBt1_dPbPw_jXiWUct9Lkyj7de/view?usp=sharing
  
 Definições do projeto - BACKEND
 [RF01, RF02, RF03, RF04, RF05]
